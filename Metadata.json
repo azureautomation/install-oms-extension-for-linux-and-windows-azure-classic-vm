@@ -1,0 +1,20 @@
+{
+    "Author": "Safeer Mohammed",
+    "ContentSize": 3670,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/install-oms-extension-for-linux-and-windows-azure-classic-vm/master/Install-OMSClassicVMExtension.ps1",
+    "DownloadCount": 550,
+    "Id": "Installs-OMS-extension-for-34f58a48",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 531,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-6-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Installs OMS extension for Linux and Windows Azure classic Virtual Machines.The Runbook takes Subscription Id, Subscription name and VM name and installs OMS Agent on the VMThe runbook needs classic run as connection string to access VM in other subscriptions.The Runbook al",
+    "Title": "Install OMS extension for Linux and Windows Azure classic VM",
+    "UpdatedDate": "2017-6-23T00:00:00",
+    "Url": "https://github.com/azureautomation/install-oms-extension-for-linux-and-windows-azure-classic-vm",
+    "UserTags": "Azure Automation, OMS Update Management"
+}
